@@ -1,4 +1,3 @@
-![MEAN Diagram](images/mean-diagram-3.png)
 ### Let's spin up a new project!
 
 Before we get rolling, let's make sure that we have Node and MongoDB installed.
